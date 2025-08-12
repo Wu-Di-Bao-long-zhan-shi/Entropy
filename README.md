@@ -1,5 +1,10 @@
 # Entropy
 用于需要随机选择的情况
+蓝奏云下载链接： https://wwfa.lanzouo.com/iOvVl33e8a7g
+
+使用方法： 1.解压zip文件
+          2.双击Entropy.exe运行
+
 
 <img width="484" height="341" alt="image" src="https://github.com/user-attachments/assets/bc307098-f551-4301-98d4-a1c59590a6f3" />
 
